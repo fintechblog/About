@@ -1,6 +1,6 @@
 ## Chào các bạn
 
-Fintechblog.net là một nhóm gồm 3 thành viên chính, đam mê nghiên cứu Blockchain và quản trị mạng.
+Trieu Nguyen là thành viên của VNB nodes, một nhóm đam mê nghiên cứu Blockchain và Quản trị mạng.
 
 ### 1. Nghiên cứu công nghệ các dự án Blockchain và viết bài
 * Aptos, 
@@ -19,4 +19,10 @@ Fintechblog.net là một nhóm gồm 3 thành viên chính, đam mê nghiên c�
 * Muon network, 
 * Opside
 * etc ...
+
+### 4. Liên hệ
+* SUBSTACK: https://vnbnodes.substack.com
+* GITHUB: https://github.com/vnbnode
+* TELEGRAM: https://t.me/VNBnodes
+
 
