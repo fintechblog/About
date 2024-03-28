@@ -21,8 +21,8 @@ Trieu Nguyen là thành viên của VNB nodes, một nhóm đam mê nghiên cứ
 * etc ...
 
 ### 4. Liên hệ
-* SUBSTACK: https://vnbnodes.substack.com
-* GITHUB: https://github.com/vnbnode
-* TELEGRAM: https://t.me/VNBnodes
+* SUBSTACK: https://trieunguyen.substack.com
+* TWITTER: https://twitter.com/TrieuNg71205296
+* VNBnode group: https://t.me/VNBnodes
 
 
