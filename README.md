@@ -1,6 +1,6 @@
 ## Chào các bạn
 
-Trieu Nguyen là thành viên của VNB nodes, một nhóm đam mê nghiên cứu Blockchain và Quản trị mạng và quản trị blog cá nhân: https://fintechblog.net/
+Trieu Nguyen là thành viên của group VNBnodes và quản trị blog cá nhân: https://fintechblog.net/
 
 ### 1. Nghiên cứu công nghệ các dự án Blockchain và viết bài
 * Aptos, 
